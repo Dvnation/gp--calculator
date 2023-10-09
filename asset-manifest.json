@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/gp--calculator/static/css/main.bc258079.css",
-    "main.js": "/gp--calculator/static/js/main.c2f0e321.js",
+    "main.css": "/gp--calculator/static/css/main.e52bfcae.css",
+    "main.js": "/gp--calculator/static/js/main.8439cc75.js",
     "static/js/787.c6af6696.chunk.js": "/gp--calculator/static/js/787.c6af6696.chunk.js",
+    "static/media/dvnation.jpg": "/gp--calculator/static/media/dvnation.91984608437a793b9441.jpg",
+    "static/media/logo.svg": "/gp--calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/gp--calculator/index.html",
-    "main.bc258079.css.map": "/gp--calculator/static/css/main.bc258079.css.map",
-    "main.c2f0e321.js.map": "/gp--calculator/static/js/main.c2f0e321.js.map",
+    "main.e52bfcae.css.map": "/gp--calculator/static/css/main.e52bfcae.css.map",
+    "main.8439cc75.js.map": "/gp--calculator/static/js/main.8439cc75.js.map",
     "787.c6af6696.chunk.js.map": "/gp--calculator/static/js/787.c6af6696.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc258079.css",
-    "static/js/main.c2f0e321.js"
+    "static/css/main.e52bfcae.css",
+    "static/js/main.8439cc75.js"
   ]
 }
